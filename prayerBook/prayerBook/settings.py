@@ -77,7 +77,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'prayerbook_db',
         'USER': 'admin',
-        'PASSWORD': 'abcdefg',
+        # 'PASSWORD': 'abcdefg',
+        'PASSWORD': 'Jx2iLTpwKYumQyZvHYEXioQ3xGeZvq',
         'HOST': 'localhost',
         'PORT': '',
     }
